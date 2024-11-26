@@ -1,0 +1,15 @@
+{
+  "name": "generators-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "taskRunner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^6.0.0"
+  }
+}
